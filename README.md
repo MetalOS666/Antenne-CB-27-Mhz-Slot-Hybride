@@ -94,7 +94,7 @@ Pour tout usage commercial (vente de kits, PCB, produits assemblés, intégratio
 dans un produit commercial), contactez :
 
 **InfoProject Software — Julien ARNOULD**
-📧 [contact@infoproject-software.com]
+📧 [alias@infoproject-software.com]
 
 ---
 
