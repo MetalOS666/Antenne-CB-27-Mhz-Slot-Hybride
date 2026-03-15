@@ -76,7 +76,7 @@ NonCommercial — ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 la mention suivante :
 
 > « CB SLOT 27 MHz — Conception originale : InfoProject Software,
-> Julien ARNOULD (2026) — https://github.com/infoproject-software »
+> Julien ARNOULD (2026) — https://github.com/MetalOS666/Antenne-CB-27-Mhz-Slot-Hybride »
 
 📌 **Partager sous la même licence** : si vous modifiez ou adaptez ce design,
 vous devez distribuer vos contributions sous la même licence CC BY-NC-SA 4.0.
@@ -124,9 +124,6 @@ L'originalité de ce design réside dans :
 
 - Date de création : **Mars 2026**
 - Auteur : **Julien ARNOULD / InfoProject Software**
-- Enveloppe Soleau INPI : [numéro à compléter après dépôt]
-- Dépôt GitHub : [URL à compléter après publication]
-- Publication initiale : [date à compléter]
 
 ---
 
